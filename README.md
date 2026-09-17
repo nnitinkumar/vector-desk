@@ -2,7 +2,7 @@
 
 VectorDesk is a FastAPI service for document analysis, comparison, and retrieval-augmented chat. Upload PDFs (or DOCX/TXT) to get an LLM-generated structural analysis, diff two documents against each other, or build a FAISS-backed vector index and chat with your documents.
 
-VectorDesk is built on top of the [`document_portal`](https://github.com/sunnysavita10/document_portal) scaffold by Sunny Savita — credit to the original project for the base architecture (ingestion, chat, and comparison pipelines).
+
 
 ## Features
 
